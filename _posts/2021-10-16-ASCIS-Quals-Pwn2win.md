@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASCIS quals - Pwn2win
+title: ASCIS_Quals - Pwn2win
 tags: [pwn]
 categories: CTF Writeups
 ---
@@ -270,7 +270,7 @@ Một lỗi format string đơn giản, biến **local_68** chính là tên củ
 ## <a id="ideas"></a> Lên ý tưởng để giải quyết vấn đề
 
 Với những bài format string thì điều đầu tiên ta cần làm là leak stack để tìm được offset mà nơi input người dùng nhập vào được lưu, từ đó có thể abritary write.
-### Một điều quan trọng cần lưu ý trước khi làm bài này là ta cần sử dụng một libc gần với server nhất để đảm bảo không xảy ra trường hợp chỉ pwn được ở local :D Vì các bài tập khác server đều sử dụng glibc 2.31 nên mình cũng sẽ sử dụng nó cho binary này
+> Một điều quan trọng cần lưu ý trước khi làm bài này là ta cần sử dụng một libc gần với server nhất để đảm bảo không xảy ra trường hợp chỉ pwn được ở local :D Vì các bài tập khác server đều sử dụng glibc 2.31 nên mình cũng sẽ sử dụng nó cho binary này
 
 
 
