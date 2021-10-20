@@ -5,9 +5,9 @@ tags: [osint]
 categories: CTF Writeups
 ---
 
-### I am a new CTF player who come from VietNam (yeah here I am, sorry for my English) and mainly work on pwn & osint. 
-### I join the UIUCTF solo (yes, by myself) under the nickname "niche" and end up at 177th (╥﹏╥). UIUCTF 2021 was a well-rounded and fun CTF btw.
-### I managed to solve all the osint (except the OSINT The Creator 2 since I didn't check the new challenge) and here're my writeups.
+> I am a new CTF player who come from VietNam (yeah here I am, sorry for my English) and mainly work on pwn & osint. 
+I join the UIUCTF solo (yes, by myself) under the nickname "niche" and end up at 177th (╥﹏╥). UIUCTF 2021 was a well-rounded and fun CTF btw.
+I managed to solve all the osint (except the OSINT The Creator 2 since I didn't check the new challenge) and here're my writeups.
 This includes:
 - [Osint The Creator](#osinthecreator)
 - [Osint The Creator 2](#osintthecreator2)

@@ -6,11 +6,12 @@ categories: CTF Writeups
 ---
 
 
-### Kì thi Sinh viên với An Toàn Thông Tin vòng sơ khảo vừa kết thúc, một kì thi khủng bố với các bài pwn không dành cho người thiếu Oxy :D
-### Kì thi lần này gồm 3 bài pwn (proxy, pwn2win & image converter). Sau hơn nửa ngày vò đầu bức óc thì mình (niche) giải được bài 1 bài là _Pwn2win_.
-### Mình xin dành một bài post để viết sương sương lại chiếc WriteUp mà mình đã tốn khá nhiều thời gian cho nó.
+> Kì thi Sinh viên với An Toàn Thông Tin vòng sơ khảo vừa kết thúc, một kì thi khủng bố với các bài pwn không dành cho người thiếu Oxy :D
 
-### Mình xin tạm chia bài post thành các phần sau:
+> Kì thi lần này gồm 3 bài pwn (proxy, pwn2win & image converter). Sau hơn nửa ngày vò đầu bức óc thì mình (niche) giải được bài 1 bài là _Pwn2win_.
+ Mình xin dành một bài post để viết sương sương lại chiếc WriteUp mà mình đã tốn khá nhiều thời gian cho nó.
+
+> Mình xin tạm chia bài post thành các phần sau:
 - [Dịch ngược code](#reversing)
 - [Tìm lỗi](#vulnerability)
 - [Lên ý tưởng để giải quyết vấn đề](#ideas)
