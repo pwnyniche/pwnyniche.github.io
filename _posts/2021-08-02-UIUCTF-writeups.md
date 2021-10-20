@@ -2,7 +2,7 @@
 layout: post
 title: UIUCTF Writeups
 tags: [osint]
-comments: true
+categories: CTF Writeups
 ---
 
 ### I am a new CTF player who come from VietNam (yeah here I am, sorry for my English) and mainly work on pwn & osint. 

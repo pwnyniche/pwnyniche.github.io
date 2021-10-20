@@ -2,7 +2,7 @@
 layout: post
 title: HACKUCF CTF Writeups
 tags: [pwn, misc, reverse, forensics]
-comments: true
+categories: CTF Writeups
 ---
 
 # PWN

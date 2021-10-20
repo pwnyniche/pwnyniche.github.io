@@ -2,10 +2,8 @@
 layout: post
 title: ASCIS quals - Pwn2win
 tags: [pwn]
-comments: true
+categories: CTF Writeups
 ---
-
-# ASCIS Qualification - Pwn2win
 
 
 ### Kì thi Sinh viên với An Toàn Thông Tin vòng sơ khảo vừa kết thúc, một kì thi khủng bố với các bài pwn không dành cho người thiếu Oxy :D
